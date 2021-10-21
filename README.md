@@ -10,3 +10,6 @@ Machine learning for underwater target detection
 ### Snipet of Code
 
 You can read through the code [here](https://gist.github.com/suzanne64/54f4741268a39b67932cb640ccd046cb)
+
+This is an example of [code](https://gist.github.com/suzanne64/b35458c2a856d5b86751ea958e5057ed)
+
