@@ -1,2 +1,5 @@
-# target_analysis
-Machine learning underwater target detection
+# Target Analysis
+Machine learning for underwater target detection
+
+### Example acoustic image
+
