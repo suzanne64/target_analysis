@@ -9,4 +9,12 @@ Machine learning for underwater target detection
 
 ### Snipet of Code
 
+The base model contains three layer bundles, I'll call them. They each consist of 
+* 2D convolution
+* batch normalization
+* max pooling
+* dropout
+
+The model is compiled with an SGD (stochastic gradient descent) optimizer. A binary crossentropy loss function keeps track of the performnce. 
+
 You can read through the code [here](https://gist.github.com/suzanne64/54f4741268a39b67932cb640ccd046cb)
