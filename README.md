@@ -2,7 +2,8 @@
 Machine learning for underwater target detection
 
 ### Main issue
-The results are not great, by that I mean 70% +/- 15%, roughly. The non-comforting thing, is that the stats are
+The results are not great, by that I mean 70% +/- 15%, roughly. And not substantially better than the origina
+matlab code.  The non-comforting thing, is that the stats are
 so different (same everything) for different runs. And by a run, I mean training the model ten times and aggregating
 to get a target prediction (like the Matlab code).  My thought is I might not be treating the
 validation data properly, or maybe with so little data (99 for train/val, 84 for test), I shouldn't use
